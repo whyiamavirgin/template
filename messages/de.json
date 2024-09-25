@@ -1,0 +1,31 @@
+{
+  "LocaleSwitcher": {
+    "label": "Sprache",
+    "locale": "{locale, select, ru {ru Russisch} en {en Englisch} de { de Deutsch } other {Unknown}}"
+  },
+  "Navbar" : {
+    "home": "Home",
+    "tours": "Touren",
+    "blog": "Blog",
+    "aboutUs": "Über uns",
+    "contacts": "Kontakte"
+  },
+  "General": {
+    "loading": "Laden",
+    "theme": "Thema",
+    "dark": "Dunkel",
+    "light": "Licht",
+    "readMore": "Weiter lesen",
+    "aboutUs": "Über uns",
+    "contactUs": "Kontaktieren Sie uns",
+    "name": "Name",
+    "email": "Post",
+    "phone": "Telefon",
+    "required": "Erforderlich",
+    "404": "Fehler 404 - Seite wurde nicht gefunden",
+    "404Oops": "OOPS",
+    "404Home": "Zurück zur Startseite",
+    "404RandomCatFact": "Eine zufällige Tatsache über Katzen",
+    "day": "Tag"
+  }
+}

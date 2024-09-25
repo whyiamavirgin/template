@@ -1,0 +1,31 @@
+{
+  "LocaleSwitcher": {
+    "label": "Language",
+    "locale": "{locale, select, ru {ru Русский} en {en English} de { de Deutsch } other {Unknown}}"
+  },
+  "Navbar": {
+    "home": "Home",
+    "tours": "Tours",
+    "blog": "Blog",
+    "aboutUs": "About Us",
+    "contacts": "Contacts"
+  },
+  "General": {
+    "loading": "Loading",
+    "theme": "Theme",
+    "dark": "Dark",
+    "light": "Light",
+    "readMore": "Read More",
+    "aboutUs": "About Us",
+    "contactUs": "Contact us",
+    "name": "Name",
+    "email": "Mail",
+    "phone": "Phone",
+    "required": "Required",
+    "404": "Error 404 - Page not found",
+    "404Oops": "OOPS",
+    "404Home": "Go back to the main page",
+    "404RandomCatFact": "A random fact about cats",
+    "day": "Day"
+  }
+}

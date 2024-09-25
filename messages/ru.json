@@ -1,0 +1,31 @@
+{
+  "LocaleSwitcher": {
+    "label": "Язык",
+    "locale": "{locale, select, ru {ru Русский} en {en English} de { de Deutsch } other {Unknown}}"
+  },
+  "Navbar" : {
+    "home": "Главная",
+    "tours": "Туры",
+    "blog": "Блог",
+    "aboutUs": "О нас",
+    "contacts": "Контакты"
+  },
+  "General": {
+    "loading": "Загружаюсь",
+    "theme": "Тема",
+    "dark": "Темная",
+    "light": "Светлая",
+    "readMore": "Читать дальше",
+    "aboutUs": "О нас",
+    "contactUs": "Связаться с нами",
+    "name": "Имя",
+    "email": "Почта",
+    "phone": "Телефон",
+    "required": "Обязательно",
+    "404": "Ошибка 404 - Страница не найдена",
+    "404Oops": "УПС",
+    "404Home": "Вернуться на главную",
+    "404RandomCatFact": "Случайный факт про котиков",
+    "day": "День"
+  }
+}
